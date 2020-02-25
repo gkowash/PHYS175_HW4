@@ -12,6 +12,6 @@ int main() {
     sqTotal += i*i;
   }
   
-  difference = sqTotal - total;
-  cout << "Difference between sum and sum of squares of first 100 natural numbers: " << difference << endl;
+  difference = total*total - sqTotal;
+  cout << "Difference between squared sum and sum of squares of first 100 natural numbers: " << difference << endl;
 }
