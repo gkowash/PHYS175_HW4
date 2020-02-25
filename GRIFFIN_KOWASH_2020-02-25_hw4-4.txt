@@ -1,0 +1,4 @@
+Unfortunately I wasn't able to complete the fourth problem. I cloned the
+FourVector directory, but trying to compile gives the error "FourVector: no such
+file or directory". I tried to model the g++ command off of the example given
+in lecture, but none of my attempts worked.
